@@ -1,0 +1,1 @@
+const settingsIcon = 'assets/icons/settings.png';
